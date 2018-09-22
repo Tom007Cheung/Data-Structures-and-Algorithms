@@ -47,7 +47,7 @@ See &#128073; [Schedule](http://htmlpreview.github.com/?https://github.com/Tom00
 - Strings
 - Context
 
-## [Algorithms, Part Ⅰ & Ⅱ (June, 2018)](https://www.coursera.org/learn/algorithms-part1)
+## [Algorithms, Part Ⅰ & Ⅱ (September, 2018)](https://www.coursera.org/learn/algorithms-part1)
 # 5. Introduction to Algorithm (3rd edition) ~~(_optional_)~~
 ![](https://img3.doubanio.com/view/subject/l/public/s27275094.jpg)
 
