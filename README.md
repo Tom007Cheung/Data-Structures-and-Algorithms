@@ -1,6 +1,7 @@
 See &#128073; [Schedule](http://htmlpreview.github.com/?https://github.com/Tom007Cheung/Data-Structures-and-Algorithms/blob/master/index.html)
 > Today is May 29, and I decide to start to learn programming in C ! My term is to obtain 100 at **PAT Advanced** in _December_ this year ! So I need to learn hard and to program, those are my books below:
 
+[**C code**](https://github.com/Tom007Cheung/Learn-to-Code-in-C)
 # 1. C Primer Plus (6th edition)
 ![](https://img1.doubanio.com/view/subject/l/public/s27459189.jpg)
 
