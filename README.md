@@ -52,6 +52,6 @@ See &#128073; [Schedule](http://htmlpreview.github.com/?https://github.com/Tom00
 # 5. Introduction to Algorithm (3rd edition) ~~(_optional_)~~
 ![](https://img3.doubanio.com/view/subject/l/public/s27275094.jpg)
 
-Additonally, there are 2 online coding website: [Leetcode](https://leetcode.com/) and [牛客网](https://www.nowcoder.com/)！
+Additonally, there are 2 OJ website: [Leetcode](https://leetcode.com/) and [牛客网](https://www.nowcoder.com/)！
 
 Visualising data structures and algorithms through animation: [VisuaAlgo](https://visualgo.net/en)
