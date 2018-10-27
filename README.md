@@ -38,7 +38,7 @@ See &#128073; [Schedule](http://htmlpreview.github.com/?https://github.com/Tom00
 # 3. Data Structure and Algorithm Analysis in C (2nd edition)(_optional_)
 ![](https://img1.doubanio.com/view/subject/l/public/s3597187.jpg)
 
-# 4. Algorithm (4th edition)
+# 4. Algorithm (4th edition)(_optional_)
 ![](https://img3.doubanio.com/view/subject/l/public/s4656875.jpg)
 
 - Fundamentals
