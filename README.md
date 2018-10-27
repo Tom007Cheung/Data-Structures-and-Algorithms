@@ -7,7 +7,7 @@ See &#128073; [Schedule](http://htmlpreview.github.com/?https://github.com/Tom00
 ## 1. C Primer Plus (6th edition)
 ![](https://img1.doubanio.com/view/subject/l/public/s27459189.jpg)
 
-[**code** implement in C](https://github.com/Tom007Cheung/Learn-to-Code-in-C)
+[**code**](https://github.com/Tom007Cheung/Learn-to-Code-in-C)
 
 - Getting Ready
 - Introducing C
